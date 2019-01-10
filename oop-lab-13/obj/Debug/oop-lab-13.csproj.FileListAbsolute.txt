@@ -1,0 +1,15 @@
+F:\дз\ДЗ        2 курс\ООП\13\oop-lab-13\oop-lab-13\bin\Debug\oop-lab-13.exe.config
+F:\дз\ДЗ        2 курс\ООП\13\oop-lab-13\oop-lab-13\bin\Debug\oop-lab-13.exe
+F:\дз\ДЗ        2 курс\ООП\13\oop-lab-13\oop-lab-13\bin\Debug\oop-lab-13.pdb
+F:\дз\ДЗ        2 курс\ООП\13\oop-lab-13\oop-lab-13\obj\Debug\oop-lab-13.csproj.CoreCompileInputs.cache
+F:\дз\ДЗ        2 курс\ООП\13\oop-lab-13\oop-lab-13\obj\Debug\oop-lab-13.exe
+F:\дз\ДЗ        2 курс\ООП\13\oop-lab-13\oop-lab-13\obj\Debug\oop-lab-13.pdb
+F:\дз\ДЗ        2 курс\ООП\13\oop-lab-13\oop-lab-13\bin\Debug\DotNetZip.dll
+F:\дз\ДЗ        2 курс\ООП\13\oop-lab-13\oop-lab-13\bin\Debug\System.IO.Compression.dll
+F:\дз\ДЗ        2 курс\ООП\13\oop-lab-13\oop-lab-13\bin\Debug\System.IO.Compression.FileSystem.dll
+F:\дз\ДЗ        2 курс\ООП\13\oop-lab-13\oop-lab-13\bin\Debug\System.Shim.dll
+F:\дз\ДЗ        2 курс\ООП\13\oop-lab-13\oop-lab-13\bin\Debug\DotNetZip.xml
+F:\дз\ДЗ        2 курс\ООП\13\oop-lab-13\oop-lab-13\obj\Debug\oop-lab-13.csproj.CopyComplete
+F:\дз\ДЗ        2 курс\ООП\13\oop-lab-13\oop-lab-13\obj\Debug\oop-lab-13.csprojAssemblyReference.cache
+F:\дз\ДЗ        2 курс\ООП\13\oop-lab-13\oop-lab-13\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\дз\ДЗ        2 курс\ООП\13\oop-lab-13\oop-lab-13\bin\Debug\ICSharpCode.SharpZipLib.xml
